@@ -14,7 +14,7 @@ Learning Website Performance Optimization.
 
 ## To dos for a better performance
 
-* :point_right: Always analyze your website in your phone.
+:point_right: Always analyze your website in your phone.
 
 > Why? - Cellular phones are much more limited in features: slower CPUs, less RAM and GPU memory, higher connection latencies, etc. As a result, you'll always need to analyze and debug your site on mobile hardware to get a more accurate sense of the experience users will have on your site on mobile devices.
 
