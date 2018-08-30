@@ -29,15 +29,15 @@ Learning Website Performance Optimization.
 
 ### Configuring Chrome debugging in Android devices
 
-All you need is a Android device and a USB cable, so follow the steps below:
+All you need is an Android device and a USB cable, so follow the steps below:
 
 * Enable the Developer Mode in Android
     * Go to Settings > About Device > Click on "Build Number" 7 times.
 * Next, enable USB Debugging in "Developer Options"
-* Make sure you have Chrome installed in your laptop/PC (Chrome Canary, for instance) and in your cellphone.
+* Make sure you have Chrome installed in your laptop/PC (Chrome Canary, for instance) and in your cell phone.
 * Open Chrome in your laptop/PC and type `chrome://inspect` in your browser input.
 * Make sure that the website you are going to debug is open in Chrome (on your mobile device) and connect the USB cable in both (laptop and cellphone). Allow the USB connecting accepting confirming the modal that shows in your mobile device.
-* Now, you could see the mobile device conected in Chrome on your laptop/PC. Type the website address which you want to debug.
+* Now, you could see the mobile device connected in Chrome on your laptop/PC. Type the website address which you want to debug.
 * After that, you will have some controls like `inspect`, `focus tab`, `reload` and `close` the website you want, and will be able to start the debugging.
 
 
