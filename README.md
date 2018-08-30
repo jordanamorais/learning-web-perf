@@ -4,7 +4,7 @@ Learning Website Performance Optimization.
 ## Table of contents
 
 * [How the browser constructs a page?](#how-the-browser-constructs-a-page)
-* [To dos to a better performance](#to-dos-to-a-better-performance)
+* [To dos for a better performance](#to-dos-for-a-better-performance)
 * [Web Performance Tools](#web-performance-tools)
 * [Additional Reading](#additional-reading)
 
@@ -12,7 +12,7 @@ Learning Website Performance Optimization.
 
 ## How the browser constructs a page?
 
-## To dos to a better performance
+## To dos for a better performance
 
 * :point_right: Always analyse your website in your phone.
 
