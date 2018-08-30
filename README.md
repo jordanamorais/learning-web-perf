@@ -15,11 +15,16 @@ Learning Website Performance Optimization.
 
 ## How the browser constructs a page?
 
+...
+
 ## To dos for a better performance
 
 :point_right: Always analyze your website in your phone.
 
 > Why? - Cellular phones are much more limited in features: slower CPUs, less RAM and GPU memory, higher connection latencies, etc. As a result, you'll always need to analyze and debug your site on mobile hardware to get a more accurate sense of the experience users will have on your site on mobile devices.
+
+:point_right: ...
+:point_right: ...
 
 ## Debugging Websites
 
@@ -40,8 +45,7 @@ All you need is an Android device and a USB cable, so follow the steps below:
 * Now, you could see the mobile device connected in Chrome on your laptop/PC. Type the website address which you want to debug.
 * After that, you will have some controls like `inspect`, `focus tab`, `reload` and `close` the website you want, and will be able to start the debugging.
 
-> *TIP* : When you are inspecting the website in Chrome Dev Tools with the mobile device connected, you can enable `screencast` in Developer Tools (phone icon, at the top left corner) in order to mirror the device screen in Chrome Dev Tools to facilitate the debugging process.
-
+> TIP : When you are inspecting the website in Chrome Dev Tools with the mobile device connected, you can enable `screencast` in Developer Tools (phone icon, at the top left corner) in order to mirror the device screen in Chrome Dev Tools to facilitate the debugging process.
 
 ## Web Performance Tools
 
