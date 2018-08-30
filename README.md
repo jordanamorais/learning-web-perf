@@ -40,6 +40,8 @@ All you need is an Android device and a USB cable, so follow the steps below:
 * Now, you could see the mobile device connected in Chrome on your laptop/PC. Type the website address which you want to debug.
 * After that, you will have some controls like `inspect`, `focus tab`, `reload` and `close` the website you want, and will be able to start the debugging.
 
+> *TIP* : When you are inspecting the website in Chrome Dev Tools with the mobile device connected, you can enable `screencast` in Developer Tools (phone icon, at the top left corner) in order to mirror the device screen in Chrome Dev Tools to facilitate the debugging process.
+
 
 ## Web Performance Tools
 
